@@ -3,11 +3,16 @@
 	"displayName": "vscode-imp",
 	"description": "Imp language support for VSCode",
 	"version": "0.0.1",
+	"publisher": "imp-language",
+	"repository": "https://github.com/imp-language/vscode-imp",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
 	"categories": [
-		"Other"
+		"Programming Languages"
+	],
+	"keywords": [
+		"imp"
 	],
 	"activationEvents": [
 		"onCommand:vscode-imp.helloWorld"
