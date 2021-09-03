@@ -1,3 +1,4 @@
 node_modules
 out
 imp.tmLanguage.json
+.vsix
